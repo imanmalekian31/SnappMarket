@@ -1,0 +1,8 @@
+export const SET_DATA = 'SET_DATA';
+export const SET_CATEGORY = 'SET_CATEGORY';
+export const SET_SUB_CATEGORY = 'SET_SUB_CATEGORY';
+export const SET_APP_SLIDERS = 'SET_APP_SLIDERS';
+export const SET_RELATED_PRODUCTS = 'SET_RELATED_PRODUCTS';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const DELETE_CART = 'DELETE_CART';
+
